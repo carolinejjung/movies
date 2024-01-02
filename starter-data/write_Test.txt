@@ -1,0 +1,10 @@
+Movies that passed the Bechdel test (2 total):
+Alpha
+Beta
+
+Movies that passed the Peirce or Landau test (2 total):
+Beta
+Gamma
+
+Movies that passed the White test but failed the Rees-Davies test (1 total):
+Beta
